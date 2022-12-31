@@ -5,8 +5,9 @@
 version: 2
 jobs:
   build:
-      - image: circleci/node:7.10
+    ....
   integration:
+    ....
       
 workflows:
   version: 2
